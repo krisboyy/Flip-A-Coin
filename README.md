@@ -6,13 +6,7 @@ I received a DM suggestion from a user who sounded arrogant from the "get-go".
 
 He wanted to know "how good" I was.
 
-I remained polite, and explained the projects I worked on, but bro wanted to know what problems I solved.
-
-Since my projects didn't solve any _actual_ problems, bro suggested a _complicated_ problem.
-
-I had to make a Flutter app to flip a coin.
-
-So I decided to make one.
+I remained polite, and explained the projects I worked on, but bro wanted to know what problems I solved. Since my projects didn't solve any _actual_ problems, bro suggested a _complicated_ problem. I had to make a Flutter app to flip a coin. So I decided to make one.
 
 Bro's requirements:
 [] Your objective is to actually toss a virtual coin.
@@ -26,5 +20,4 @@ After bro listed all the requirements, I suggested using Gen AI to create a math
 [] _Ok man, you create a math function using Gen-AI_
 [?] _Do you have an engineering degree?_
 
-Call it tough love, being old-school or whatever, but I think it's just a jerk-like behaviour.
 Anyway, alright, Steve Jobs. I'll do what I can do with my.. wait do I even have an engineering degree?
