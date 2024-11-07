@@ -17,7 +17,7 @@ Bro's requirements:
 
 After bro listed all the requirements, I suggested using Gen AI to create a math function that takes the parameters into account to create a virtual coin, then using gestures/mouse input to flick the coin in some direction adding velocity to the coin. The coin falls into gel slowing down, finally touching the bottom.
 
-[] _Ok man, you create a math function using Gen-AI_
-[?] _Do you have an engineering degree?_
+[] _Ok man, you create a math function using Gen-AI_  
+[?] _Do you have an engineering degree?_  
 
 Anyway, alright, Steve Jobs. I'll do what I can do with my.. wait do I even have an engineering degree?
