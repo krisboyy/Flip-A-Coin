@@ -9,7 +9,7 @@ He wanted to know "how good" I was.
 I remained polite, and explained the projects I worked on, but bro wanted to know what problems I solved. Since my projects didn't solve any _actual_ problems, bro suggested a _complicated_ problem. I had to make a Flutter app to flip a coin. So I decided to make one.
 
 Bro's requirements:
-[] Your objective is to actually toss a virtual coin.
+[] Your objective is to actually toss a virtual coin.\\
 [x] A coin is a physical cylinder with mass, radius and height
 [] A force comes and tosses the coin
 [] It gets dropped into a gel of density
